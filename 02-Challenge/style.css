@@ -1,0 +1,30 @@
+body {
+    font-family: Ariel;
+   }
+   
+   main {
+    display: flex;
+    margin-top: 3%;
+    
+   }
+   
+   .card {
+    display: flex ;
+   justify-content: center;
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .main-header {
+    padding: 60px;
+    text-align: center;
+    background: lightcyan;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    width: 100%;
+
+  }
+   
