@@ -7,8 +7,9 @@
 3. Added some CSS styles for a basic portfolio where I can add projects
 
 ### DEPLOYMENT
-https://github.com/emangelic/emangelic.github.io.git
-gh repo clone emangelic/emangelic.github.io
+https://github.com/emangelic/emangelic.github.io.git/02-Challenge
+gh repo clone emangelic.github.io/02-Challenge/
+
 
 #### LICENSING
 
